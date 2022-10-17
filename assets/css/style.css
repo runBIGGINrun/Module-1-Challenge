@@ -8,6 +8,16 @@ body {
     background-color: #d9dcd6;
 }
 
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,16 +30,16 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
-    color: #bebebe;
-}
-
 .header div {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
+}
+
+.header h1 .seo {
+    color: #bebebe;
 }
 
 .header div ul {
@@ -41,14 +51,6 @@ body {
     margin-left: 25px;
 }
 
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
-p {
-    font-size: 16px;
-}
 
 .hero {
     height: 800px;
@@ -58,6 +60,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+
 
 .float-left {
     float: left;
@@ -69,11 +72,31 @@ p {
     margin-left: 25px;
 }
 
+
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
+
+.content-card {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+}
+
+.content-card img {
+    max-height: 200px;
+}
+
+.content-card h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
 
 .benefits {
     margin-right: 20px;
@@ -96,43 +119,12 @@ p {
     text-align: center;
 }
 
-
-.benefit-lead img {
+.benefit-items img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
-
-.content-card {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
-}
-
-.content-card img {
-    max-height: 200px;
-}
-
-
-.content-card h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
-}
 
 .footer {
     padding: 30px;
