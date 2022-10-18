@@ -37,7 +37,9 @@
 
 ## Mock-Up
 
-The following image shows the web application's appearance and functionality:
+The following image shows the web application's appearance:
 
-[! [mockup.png](/assets/images/mockup.png) "Mock-up of site"
+![mockup.png](./assets/images/mockup.png) 
 
+## Live Application URL
+* https://runbigginrun.github.io/Module-1-Challenge/
