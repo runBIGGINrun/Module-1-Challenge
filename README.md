@@ -39,4 +39,5 @@
 
 The following image shows the web application's appearance and functionality:
 
+[! [mockup.png](/assets/images/mockup.png) "Mock-up of site"
 
